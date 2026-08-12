@@ -3,7 +3,7 @@ Wallpaper made with [Milk filter](https://github.com/LucaSinUnaS/Milk-Filter) by
 
 This is my personal rice, it may break your system for what I take no responsibility.
 
-### dwm patches:  
+### dwm patches
 ---
 + swallow: [patches/swallow/](https://dwm.suckless.org/patches/swallow/)  
 + vanity gaps: [patches/vanitygaps/](https://dwm.suckless.org/patches/vanitygaps/)  
@@ -57,7 +57,7 @@ MOD+SHIFT+q     # close a window
 MOD+{1-0}       # navigation betweem workspaces  
 ```
 
-### Special thanks:  
+### Special thanks
 ---
 + [Bread on Penguins](https://www.youtube.com/@BreadOnPenguins): for amazing videos, and config references.   
 + [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA): for consistent video posting.
