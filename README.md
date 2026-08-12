@@ -1,7 +1,7 @@
 ### Personal suckless dot files  
 Wallpaper made with [Milk filter](https://github.com/LucaSinUnaS/Milk-Filter) by LucaSinUnaS.  
 
-This is my personal rice, it may break your system for what I take no responsobility.
+This is my personal rice, it may break your system for what I take no responsibility.
 
 ### dwm patches:  
 ---
