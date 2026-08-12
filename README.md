@@ -26,7 +26,7 @@ This is my personal rice, it may break your system for what I take no responsibi
 + feh
 + kitty
 
-### INSTALATION  
+### INSTALLATION  
 ---
 ```sh
 $ cd dwm && make  
@@ -46,7 +46,7 @@ Type=XSession
   
 ### KEYBINDINGS  
 ---
-Everything is configured via **config.h** file.  If it doesn't exist then make will generate one from **config.def.h**.  
+Everything is configured via **config.h** file.  If it doesn't exist then Make will generate one from **config.def.h**.  
 ```  
 MOD+SHIFT+p     # volume + 1%  
 MOD+SHIFT+m     # volume + 1% 
