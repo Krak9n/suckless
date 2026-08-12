@@ -3,7 +3,8 @@ Wallpaper made with [Milk filter](https://github.com/LucaSinUnaS/Milk-Filter) by
 
 This is my personal rice, it may break your system for what I take no responsobility.
 
-dwm patches:  
+### dwm patches:  
+---
 + swallow: [https://dwm.suckless.org/patches/swallow/](https://dwm.suckless.org/patches/swallow/)  
 + vanity gaps: [https://dwm.suckless.org/patches/vanitygaps/](https://dwm.suckless.org/patches/vanitygaps/)  
 + cool autostart: [https://dwm.suckless.org/patches/col_autostart/](https://dwm.suckless.org/patches/cool_autostart/)  
@@ -15,6 +16,7 @@ dwm patches:
 ---
 
 ### PREREQUISITES  
+---
 + x11  
 + pulseaudio  
 + make  
@@ -25,15 +27,16 @@ dwm patches:
 + kitty
 
 ### INSTALATION  
-```bash  
+---
+```sh
 $ cd dwm && make  
 # make install   
 $ cd ../dwmblocks && make
-$ make install
+# make install
 ```   
 
 You may also want to create a /usr/share/xsessions/dwm.session file.  
-```bash  
+```sh
 [Desktop Entry]   
 Name=dwm  
 Comment=dynamic window manager  
@@ -42,6 +45,7 @@ Type=XSession
 ```  
   
 ### KEYBINDINGS  
+---
 Everything is configured via config.h file.  If it doesn't exist then make will generate one from config.def.h.  
 ```  
 MOD+SHIFT+p     # volume + 1%  
@@ -58,8 +62,8 @@ All of my systembar modules are placed [here](https://gitlab.com/sys1ofbatista/d
 
 Don't know what to add.
 
----
 Special thanks:  
+---
 + [Bread on Penguins](https://www.youtube.com/@BreadOnPenguins): for amazing videos, and config references.   
 + [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA): for consistent video posting.
 
